@@ -10,7 +10,7 @@ var webpack = require("webpack");
 
 module.exports = {
     entry: {
-        "Middware": ["./index.js"]
+        "Middleware": ["./index.js"]
     },
     output: {
         path: path.join(__dirname, "dist"),

@@ -2,7 +2,7 @@
   "name": "middle-ware",
   "version": "1.0.0",
   "description": "js 中间件",
-  "main": "index.js",
+  "main": "./dist/Middleware.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
