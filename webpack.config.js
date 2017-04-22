@@ -29,12 +29,12 @@ module.exports = {
     resolve: {
     },
     plugins: [
-        new webpack.optimize.UglifyJsPlugin({ //压缩代码
-            compress: {
-                warnings: false,
-                drop_debugger: true,
-                drop_console: true
-            }
-        })
+        // new webpack.optimize.UglifyJsPlugin({ //压缩代码
+        //     compress: {
+        //         warnings: false,
+        //         drop_debugger: true,
+        //         drop_console: true
+        //     }
+        // })
     ]
 };
